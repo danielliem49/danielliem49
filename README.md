@@ -4,7 +4,7 @@
     hey there
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
-     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTdjZTY5ZDU2ZWYxMjVjNDhmODI3YzA4M2E5MGQ1M2MwYzg2NzZhYSZjdD1n/2IudUHdI075HL02Pkk/giphy.gif" width="300"/>
+     <img src="https://raw.githubusercontent.com/fate0/fate0/master/artwork/pusheencode.gif" width="300"/>
   <div id="badges">
     <a href="www.linkedin.com/in/danielliem49">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
