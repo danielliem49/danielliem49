@@ -49,7 +49,8 @@ Nice to meet you! My name is Daniel, and I am an Indonesian/American 🇮🇩�
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=danielliem49&theme=dark&hide_border=true&border_radius=8)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=danielliem49&theme=dark&border_radius=8)](https://git.io/streak-stats)
+<br>
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielliem49&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
