@@ -21,7 +21,9 @@ Nice to meet you! My name is Daniel, and I am an Indonesian/American 🇮🇩�
 
 - 💬 Ask me about any of my projects or code
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/danielliem49)
+- :mailbox:How to reach me: 
+   at my Email: danielliem49@gmail.com
+   or on LinkedIn: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/danielliem49)
 
 <!--
 **danielliem49/danielliem49** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
