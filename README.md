@@ -17,9 +17,9 @@ Nice to meet you! My name is Daniel, and I am an Indonesian/American 🇮🇩�
 
 - :seedling: Currently improving on my frontend and UI/UX design skills.
 
-- ⚽ In my free time I play sports, build guitars, and run a shrimp farm!
+- 🏖️ In my free time I play sports, build guitars, and run a shrimp farm!
 
-- 💬 Ask me about any of my projects, code, or other work. Or, we can talk philosophy and play chess 
+- 💬 Ask me about any of my projects or code
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/danielliem49)
 
