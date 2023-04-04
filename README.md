@@ -1,14 +1,16 @@
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
+  <img src="[https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif)" width="500"/>
   <div id="badges">
     <a href="www.linkedin.com/in/danielliem49">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
   </div>
+  ### Hey there 👋
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
 </div>
 
-### Hey there 👋
+
 
   
 
