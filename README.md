@@ -1,7 +1,7 @@
 
 <div id="header" align="center">
    <h1>
-    hey there
+    Hey there
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
      <img src="https://raw.githubusercontent.com/fate0/fate0/master/artwork/pusheencode.gif" width="300"/>
@@ -45,6 +45,11 @@ Nice to meet you! My name is Daniel, and I am an Indonesian/American 🇮🇩�
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
+
+---
+
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=danielliem49&theme=dark&hide_border=true&border_radius=8)](https://git.io/streak-stats)
 <!--
 **danielliem49/danielliem49** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
