@@ -19,7 +19,7 @@ Nice to meet you! My name is Daniel, and I'm an Indonesian/American 🇮🇩🇺
 
 - 🏖️ In my free time I play sports, build guitars, and run a shrimp farm!
 
-- 💬 Ask me about any of my projects or code
+- 💬 Ask me about any of my projects, or simply chat
 
 - :mailbox:How to reach me: <br><br> Email: danielliem49@gmail.com <br> LinkedIn: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/danielliem49)
 
