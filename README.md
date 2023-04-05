@@ -11,9 +11,9 @@
 
 ### :man_technologist: About Me :
 
-Nice to meet you! My name is Daniel, and I'm an Indonesian/American 🇮🇩🇺🇸 Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+Nice to meet you! My name is Daniel, and I'm an Indonesian/American 🇮🇩🇺🇸 Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
-- 🔭 I’m seeking work as a Full Stack Software Engineer. I enjoy building web applications and working on both frontend and backend.
+- 🔭 Seeking work as a Full Stack Developer. I enjoy building web applications and working on both frontend and backend.
 
 - :seedling: Currently improving on my frontend and UI/UX design skills.
 
