@@ -15,7 +15,7 @@ Nice to meet you! My name is Daniel, and I'm an Indonesian/American 🇮🇩🇺
 
 - 🔭 Seeking work as a Full Stack Developer. I enjoy building web applications and working on both frontend and backend.
 
-- :seedling: Currently improving on my frontend and UI/UX design skills.
+- :seedling: Currently improving on frontend and UI/UX design skills.
 
 - 🏖️ In my free time I play sports, build guitars, and run a shrimp farm!
 
