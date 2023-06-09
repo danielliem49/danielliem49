@@ -17,7 +17,7 @@ Nice to meet you! My name is Daniel, and I'm an Indonesian/American 🇮🇩🇺
 
 - :seedling: Currently improving my Python and Typescript skills.
 
-- 🏖️ In my free time I play sports, build guitars, and run a shrimp farm!
+- 🏖️ In my free time I play sports, build guitars, and run a shrimp farm. Fun times :D
 
 - 💬 Ask me about any of my projects, or simply chat
 
